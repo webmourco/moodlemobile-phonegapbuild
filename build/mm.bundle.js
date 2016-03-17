@@ -21404,7 +21404,7 @@ angular.module('mm.core')
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     
-   "siteurl": "http://mantissytems.com/moodle3.0.3",
+   "siteurl": "http://mantissystems.com/moodle3.0.3",
     "gcmpn": "694767596569",
     
 }
